@@ -26,4 +26,5 @@ If your last stone is in the pit you just emptied by starting your turn, the ‘
 rule above applies as well.
 
 ##Mancala Board
+
 ![Alt text](Images/Mancala Board.jpeg?raw=true "Title") 
