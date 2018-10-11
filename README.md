@@ -27,4 +27,4 @@ rule above applies as well.
 
 ##Mancala Board
 
-![Alt text](Images/Mancala Board.jpeg?raw=true "Title") 
+![Alt text](Mancala/Images/Mancala Board.jpeg?raw=true "Title") 
