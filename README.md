@@ -24,3 +24,6 @@ Note: it is possible to have so many stones in one’s pit that you cover the wh
 turn. If you make the full circle, you can just continue placing the stones until the ‘hand’ is empty.
 If your last stone is in the pit you just emptied by starting your turn, the ‘ending-in-an-empty-pit’
 rule above applies as well.
+
+##Mancala Board
+![Alt text](Images/Mancala Board.jpeg?raw=true "Title") 
