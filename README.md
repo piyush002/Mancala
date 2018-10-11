@@ -25,14 +25,14 @@ turn. If you make the full circle, you can just continue placing the stones unti
 If your last stone is in the pit you just emptied by starting your turn, the ‘ending-in-an-empty-pit’
 rule above applies as well.
 
-##Mancala Board
+## Mancala Board
 
 ![Alt text](images/Board.jpeg?raw=true "Title") 
 
-##Game Console
+## Game Console
 
 ![Alt text](images/Mancala_input.png?raw=true "Title") 
 
-##Game
+## Game
 
 ![Alt text](images/mancala_Game.JPG?raw=true "Title") 
