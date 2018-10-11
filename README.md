@@ -31,8 +31,8 @@ rule above applies as well.
 
 ##Game Console
 
-![Alt text](images/Mancala_input?raw=true "Title") 
+![Alt text](images/Mancala_input.png?raw=true "Title") 
 
 ##Game
 
-![Alt text](images/mancala_Game?raw=true "Title") 
+![Alt text](images/mancala_Game.JPG?raw=true "Title") 
