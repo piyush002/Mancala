@@ -30,7 +30,9 @@ rule above applies as well.
 ![Alt text](images/Board.jpeg?raw=true "Title") 
 
 ##Game Console
+
 ![Alt text](images/Mancala_input?raw=true "Title") 
 
 ##Game
+
 ![Alt text](images/mancala_Game?raw=true "Title") 
